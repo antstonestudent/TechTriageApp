@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/closed.png</file>
+        <file>img/FAB005-icons8-email-96.png</file>
+        <file>img/FAB005-icons8-notification-96.png</file>
+        <file>img/icons8-attach-50.png</file>
+        <file>img/icons8-document-50.png</file>
+        <file>img/icons8-email-100.png</file>
+        <file>img/icons8-list-64.png</file>
+        <file>img/icons8-logout-rounded-64.png</file>
+        <file>img/icons8-phone-50.png</file>
+        <file>img/icons8-user-64.png</file>
+        <file>img/icons8-video-file-50.png</file>
+        <file>img/ma1n.png</file>
+        <file>img/newtag-icon.png</file>
+        <file>img/processing-time.png</file>
+        <file>img/roundedboxclosewhite.png</file>
+        <file>img/roundedboxmaximizewhite.png</file>
+        <file>img/techtriagelogo.png</file>
+        <file>img/techtriagelogo11465.png</file>
+        <file>img/whiteicons8-calendar-96.png</file>
+        <file>img/whiteicons8-clock-96.png</file>
+        <file>img/woma1n.png</file>
+        <file>fonts/Poppins-Bold.ttf</file>
+        <file>fonts/Poppins-Medium.ttf</file>
+        <file>fonts/Poppins-Regular.ttf</file>
+    </qresource>
+</RCC>
