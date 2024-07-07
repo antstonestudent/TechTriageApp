@@ -14,7 +14,9 @@ HEADERS += \
     mainwindow.h
 
 FORMS += \
-    mainwindow.ui
+    dashboardWindow.ui \
+    mainwindow.ui \
+    ticketsearchWindow.ui
 
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin

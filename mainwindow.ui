@@ -97,15 +97,16 @@
     <property name="styleSheet">
      <string notr="true">background-color: rgb(255, 255, 255);</string>
     </property>
-    <widget class="QWidget" name="widget_5" native="true">
+    <widget class="QStackedWidget" name="contentStackedWidget">
      <property name="geometry">
       <rect>
        <x>310</x>
        <y>80</y>
-       <width>1581</width>
-       <height>971</height>
+       <width>1580</width>
+       <height>970</height>
       </rect>
      </property>
+     <widget class="QWidget" name="page"/>
     </widget>
    </widget>
    <widget class="QWidget" name="widget_2" native="true">

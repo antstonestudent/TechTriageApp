@@ -21,5 +21,9 @@
         <file>img/whiteicons8-calendar-96.png</file>
         <file>img/whiteicons8-clock-96.png</file>
         <file>img/woma1n.png</file>
+        <file>img/box.png</file>
+        <file>img/time.png</file>
+        <file>img/warning.png</file>
+        <file>img/dashboardinformation.png</file>
     </qresource>
 </RCC>
