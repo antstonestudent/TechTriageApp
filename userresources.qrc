@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/imge">
+        <file>imge/calendar.png</file>
+        <file>imge/clock.png</file>
+        <file>imge/close.png</file>
+        <file>imge/details.png</file>
+        <file>imge/e1.png</file>
+        <file>imge/e2.png</file>
+        <file>imge/e3.png</file>
+        <file>imge/e4.png</file>
+        <file>imge/folder.png</file>
+        <file>imge/home.png</file>
+        <file>imge/inbox email.png</file>
+        <file>imge/inbox.png</file>
+        <file>imge/log-out.png</file>
+        <file>imge/mail-inbox-app.png</file>
+        <file>imge/man (1).png</file>
+        <file>imge/minus.png</file>
+        <file>imge/New Ticket Req.png</file>
+        <file>imge/notification.png</file>
+        <file>imge/notifications.png</file>
+        <file>imge/Report.png</file>
+        <file>imge/Settings list.png</file>
+        <file>imge/settings.png</file>
+        <file>imge/submit.png</file>
+        <file>imge/T1.png</file>
+        <file>imge/T2.png</file>
+        <file>imge/T3.png</file>
+        <file>imge/Ticket Status.png</file>
+        <file>imge/TT.png</file>
+        <file>imge/upload.png</file>
+        <file>imge/user.png</file>
+        <file>imge/welcomeback.png</file>
+        <file>imge/window.png</file>
+    </qresource>
+</RCC>
